@@ -8,8 +8,11 @@ Um modelo de classificação de spam foi construído em cima desse dataset.
 
 ## Requisitos
 [Python 3](https://www.python.org/downloads/)
+
 [Jupyter Notebook](https://jupyter.org/)
+
 [Anaconda](https://www.anaconda.com/)
+
 [Python Pip](https://pypi.org/project/pip/)
 
 ## Como executar
